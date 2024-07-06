@@ -1,4 +1,4 @@
-Parse the following resume PDF into a structured JSON format. Extract key information including:
+Parse the following resume into a structured JSON format. The input may be either PDF content or plain text. Extract key information including:
 
 - Personal details (name, contact info)
 - Professional summary
@@ -8,6 +8,6 @@ Parse the following resume PDF into a structured JSON format. Extract key inform
 - Certifications
 - Any other relevant sections
 
-Provide the output as valid JSON, with appropriate nesting and data types. Ensure all text content is preserved accurately.
+Provide the output as valid JSON, with appropriate nesting and data types. Ensure all text content is preserved accurately. If the input is PDF content, process it as if it were plain text extracted from the PDF.
 
-[Add a pdf resume]
+[User can add either PDF content or plain text resume here]
