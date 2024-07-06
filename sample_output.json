@@ -1,0 +1,104 @@
+{
+  "personalDetails": {
+    "name": "Raghav Nagpal",
+    "phone": "8360834477",
+    "email": "raghavnagpal2003@gmail.com",
+    "linkedin": "linkedin.com/in/raghavnagpal03/",
+    "github": "github.com/raaghav03"
+  },
+  "education": [
+    {
+      "institution": "SRM Institute of Science and Technology",
+      "degree": "Bachelor of Science in Computer Science ( AI & ML )",
+      "date": "September 2021 – June 2025",
+      "location": "NCR Campus, Delhi",
+      "gpa": "8.57 / 10.00",
+      "relevantCoursework": [
+        "Data Structures and Algorithms (C++)",
+        "Programming and Problem Solving",
+        "Operating Systems",
+        "Software Engineering and Project Management",
+        "Computer Networks",
+        "Computer Communication",
+        "Database Management System",
+        "Object Oriented Programming"
+      ]
+    },
+    {
+      "institution": "Sri Guru Harkrishan Senior Secondary Public School",
+      "degree": "Senior Secondary",
+      "date": "April 2020 - May 2021",
+      "location": "Chandigarh, Punjab"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Moneyflo",
+      "position": "Product Design & Front end Development Intern",
+      "date": "August 2023- October 2023",
+      "location": "Remote",
+      "responsibilities": [
+        "Lead user-centered product design aligned with business goals, emphasising creativity and detail",
+        "Bridge design concepts to front-end development for functional, visually appealing outcomes"
+      ]
+    },
+    {
+      "company": "Moneyflo",
+      "position": "Product Design Intern",
+      "date": "June 2023- July 2023",
+      "location": "Remote",
+      "responsibilities": [
+        "Collaborated on product design to align with user and business goals during internship",
+        "Engaged in the entire product life cycle, applying industry best practices",
+        "Translated designs into code for seamless implementation"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Aura: HR and Finance Management System",
+      "technologies": ["ReactJS", "NodeJS", "Redux", "Prisma"],
+      "description": [
+        "Developed web app using React and Supabase for employee expense, payroll, and benefits management",
+        "Implemented approval workflows, payroll processing, benefit administration, and data visualization",
+        "Utilized React Hook Form and Recharts for enhanced functionality"
+      ]
+    },
+    {
+      "name": "Nexus",
+      "technologies": ["NextJS", "Supabase", "Tailwind", "Clerk", "Zego Cloud"],
+      "description": [
+        "Created real-time collaboration app with Kanban board, video calling, and chat functionality",
+        "Integrated interactive components for optimal user experience in collaborative environments"
+      ]
+    },
+    {
+      "name": "MediSync - Medication and Vital Tracking App",
+      "technologies": ["Product Design", "UX Design", "Figma"],
+      "description": [
+        "Designed user-friendly app for daily medication reminders and vital sign tracking",
+        "Conducted user research and created prototypes using Figma, following Agile methodology"
+      ]
+    }
+  ],
+  "technicalSkills": {
+    "languages": ["Python", "SQL", "Javascript", "Typescript", "HTML5", "CSS3"],
+    "deepLearning": ["PyTorch", "LLM Tools", "Prompt Engineering", "Computer Vision", "Natural Language Processing (NLP)"],
+    "machineLearningLibraries": ["NLTK", "spaCy"],
+    "versionControl": ["Git", "GitHub"],
+    "developmentPractices": [
+      "Software development principles",
+      "Implementing research papers",
+      "Problem-solving",
+      "Complex data analysis"
+    ],
+    "frontendTechnologies": ["ReactJS", "NextJS", "UI Libraries", "Rest APIs", "GraphQL"],
+    "backendTechnologies": ["NodeJS", "Express", "MongoDB"],
+    "devTools": ["GitHub Actions", "Bash scripts", "NPM/Yarn"]
+  },
+  "achievements": [
+    "Qualified for final round in HackInnovate, SRMIST's National Level Hackathon out of 100+ teams",
+    "Designed a UPI mobile application at Design Forge organized by college using Figma and Protopie. Performed user research, prototyping, and created a landing page. Qualified in the Top 10 Teams",
+    "Designed and developed a college student-centric shopping mart website. Qualified for the Final Round of JamShack 2023 hackathon hosted by NIT Agartala"
+  ]
+}
