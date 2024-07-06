@@ -1,0 +1,13 @@
+Parse the following resume PDF into a structured JSON format. Extract key information including:
+
+- Personal details (name, contact info)
+- Professional summary
+- Work experience (company, job title, dates, responsibilities)
+- Education (degree, institution, graduation date)
+- Skills
+- Certifications
+- Any other relevant sections
+
+Provide the output as valid JSON, with appropriate nesting and data types. Ensure all text content is preserved accurately.
+
+[Add a pdf resume]
